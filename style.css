@@ -1,0 +1,114 @@
+.heade{
+    width: 100%;
+    height: 80px;
+    background:radial-gradient(circle, rgba(14,57,243,1) 0%, rgba(9,121,33,1) 52%);
+}
+body{
+    margin: 0%;
+}
+.itfest{
+    margin-top: 10px;
+    margin-left: 150px;
+
+}
+.leftsec{
+    width: 50%;
+    height: 80px;
+    float: left;
+}
+.rightsec{
+    width: 50%;
+    height: 80px;
+    float: left;
+
+}
+.naavc{
+    margin-left: 240px;
+}
+.sec1{
+    width: 100%;
+    height: 900px;
+    background:black;
+    float: left;
+
+}
+.vid{
+    margin-top: 60px;
+    margin-left: 290px;
+}
+.sec2{
+    width: 100%;
+    height: 400px;
+    background:red;
+    background: black;
+}
+.pgms{
+    margin-top: 10px;
+    margin-left: 590px;
+    color: white;
+    
+}
+.cardst{
+    margin-left: 42px;
+}
+.cardstyle{
+    margin-left: 82px;
+}
+.car{
+    margin-left: 32px;
+    margin-top: 18px;
+    float: left;
+}
+.boot{
+    width: 100px;
+    height: 100px;
+    margin-left: 607px;
+    margin-top: 16px;
+
+}
+.divv{
+    width: 100%;
+    height: 400px;
+    background: black;
+    margin-left: 20px;
+}
+.sm{
+    width: 20px;
+    height: 20px;
+
+}
+.hahaha{
+    width: 100%;
+    height: 150px;
+    background: black;
+}
+.forc{
+    width: 100%;
+    height: 400px;
+    background: black;
+}
+.c1{
+    width: 400px;
+    height: 300px;
+    background: black;
+    margin-left: 70px;
+    }
+
+.c2{
+    width: 400px;
+    height: 300px;
+    background:black;
+}
+.wofc{
+    width: 100px;
+
+}
+.sec3{
+    width: 100%;
+    height: 200px;
+    background:black;
+}
+.ab{
+    margin-left: 660px;
+    color: white;
+}
